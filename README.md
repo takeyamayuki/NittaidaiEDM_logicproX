@@ -1,0 +1,2 @@
+# NittaidaiEDM_logicproX
+日体大EDMのlogicproXプロジェクトファイル
